@@ -1,0 +1,7 @@
+- Jason Alicea; New directions in the pursuit of Majorana fermions in solid state systems; https://arxiv.org/pdf/1202.1293
+- Lukasz Fidkowski, Alexei Kitaev; Topological phases of fermions in one dimension; https://arxiv.org/pdf/1008.4138
+- Li Mao, Chuanwei Zhang; Robustness of Majorana Modes and Minigaps in a Spin-Orbit-Coupled Semiconductor-Superconductor Heterostructure https://arxiv.org/pdf/1007.2972
+- Stephan Plugge et al 2017 New J. Phys. 19 012001
+- Lukasz Fidkowski and Alexei Kitaev; Effects of interactions on the topological classification of free fermion systems; PHYSICAL REVIEW B 81, 134509 2010
+- Sumanta Tewari; Testable Signatures of Quantum Nonlocality in a Two-Dimensional Chiral p-Wave Superconductor; PRL 100, 027001 (2008)
+- L. Mazza; Robustness of quantum memories based on Majorana zero modes; PHYSICAL REVIEW B 88, 205142 (2013)
